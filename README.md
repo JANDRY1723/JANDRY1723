@@ -54,16 +54,17 @@
 
 ### 🚀 Proyectos Destacados
 
-* 🚌 **[RutaLive](https://github.com/JANDRY1723/rutalive)** — Sistema inteligente de movilidad y GPS para transporte público en Santa Elena (`Python`, `Flet`, `Leaflet`).
-* 🧊 **[MineDesk](https://github.com/JANDRY1723/minedesk)** — Gestor de escritorio para servidores locales de Minecraft (`Python`, `CustomTkinter`).
-* 🏨 **[Tu Descanso](https://github.com/JANDRY1723/tu-descanso)** — Sistema orientador de reservas de hotel con lógica POO (`Java`).
+* 🚌 **[RutaLive](https://github.com/JANDRY1723/rutalive)** — Sistema inteligente de movilidad y GPS para transporte público en Santa Elena (Python, Flet, Leaflet).
+* 🧊 **[MineDesk](https://github.com/JANDRY1723/minedesk)** — Gestor de escritorio para servidores locales de Minecraft (Python, CustomTkinter).
+* 🌐 **[Plataforma API Fullstack](https://github.com/JANDRY1723/)** — Arquitectura cliente-servidor con backend en Java y frontend moderno en Next.js.
+* 💼 **[Sistema Contable y Otros Proyectos](https://github.com/JANDRY1723/)** — Desarrollo de software de gestión, aplicaciones de escritorio y herramientas de ciberseguridad.
 
 ---
 
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JANDRY1723&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JANDRY1723&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JANDRY1723&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes Principales" />
 </div>
 
