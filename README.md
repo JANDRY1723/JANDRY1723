@@ -27,35 +27,14 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <h4>Lenguajes</h4>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-
-  <h4>Web & Frontend</h4>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-
-  <h4>Desktop / Móvil</h4>
-  <img src="https://img.shields.io/badge/CustomTkinter-2B5B84?style=for-the-badge" alt="CustomTkinter">
-  <img src="https://img.shields.io/badge/Flet-0052CC?style=for-the-badge" alt="Flet">
-
-  <h4>AI / LLM</h4>
-  <img src="https://img.shields.io/badge/Ollama-white?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama">
-  <img src="https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot">
-  <img src="https://img.shields.io/badge/Continue.dev-20232a?style=for-the-badge" alt="Continue">
-  <img src="https://img.shields.io/badge/Aider-1E90FF?style=for-the-badge" alt="Aider">
-
-  <h4>Herramientas</h4>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,react,nextjs,vite,git,github,vscode&perline=6&theme=dark" alt="My Skills" />
+  </a>
+</p>
+<p align="center">
+  <i>(Y experimentando con IA local, SQL Server y Flet/CustomTkinter)</i>
+</p>
 
 ---
 
@@ -86,3 +65,4 @@
 <div align="center">
   <i>"Code, build, learn, repeat." ☕</i>
 </div>
+
